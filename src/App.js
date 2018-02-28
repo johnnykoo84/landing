@@ -19,7 +19,7 @@ class App extends Component {
     };
 
     // Add your tracking ID created from https://analytics.google.com/analytics/web/#home/
-    ReactGA.initialize('UA-114772027-01');
+    ReactGA.initialize('UA-114940876-1');
     // This just needs to be called once since we have no routes in this case.
     ReactGA.pageview(window.location.pathname);
   }
