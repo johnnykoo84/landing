@@ -27,7 +27,7 @@ class App extends Component {
     return (
       <HashRouter>
         <div>
-          <h1>맨날 개발만 하고... 여친한테 선물 마지막으로 한 게 언제니?</h1>
+          <h1>개발자들을 위한 프리미엄 컨시어지 서비스</h1>
           <ul className="header">
             <li><NavLink exact to="/">홈</NavLink></li>
             <li><NavLink to="/contact">정체가 뭐냐</NavLink></li>
