@@ -35,6 +35,12 @@ class App extends Component {
             <Route exact path="/" component={Home}/>
             <Route path="/contact" component={Contact}/>
           </div>
+          <div>
+          <h2>쿠스랩</h2>
+          <h3>대표: 구일모</h3>
+          <h3>사업자등록번호: 606-466-9713</h3>
+          <h3>사업장 소재지: 서울특별시 동작구 사당로2길 76 1101호</h3>
+          </div>
         </div>
       </HashRouter>
     );
