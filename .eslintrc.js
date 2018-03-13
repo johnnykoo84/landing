@@ -1,5 +1,6 @@
 module.exports = {
-    "extends": "airbnb",
+		"extends": "airbnb",
+		"parser": "babel-eslint",
     "rules": {
 			"comma-dangle": ["error", "never"],
 			"react/no-unused-state": 0,
